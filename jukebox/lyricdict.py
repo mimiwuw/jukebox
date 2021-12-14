@@ -1,7 +1,7 @@
 # Poems
 poems = {
 'ozymandias': '''
-I met a traveller from an antique land,
+Добрый вечер Здравствуйте Меня зовут Роберт ,
 Who said—“Two vast and trunkless legs of stone
 Stand in the desert. . . . Near them, on the sand,
 Half sunk a shattered visage lies, whose frown,
